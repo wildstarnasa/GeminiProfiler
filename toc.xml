@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Sinaloit" APIVersion="7" Name="GeminiProfiler" Description="Addon Profiler" Version="0.9a">
+    <Script Name="libs\ProFi\ProFi.lua"/>
+    <Script Name="GeminiProfiler.lua"/>
+    <Form Name="GeminiProfiler.xml"/>
+</Addon>
